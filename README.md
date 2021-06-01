@@ -48,6 +48,10 @@ Colocar ✔ quando concluído.
 
 # Anotações
 
+**terraform-cheatsheet**
+
+https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
+
 **Hashicorp Configuration Language** (**HCL**)
 
 **Bloco Data** - coletar uma informação - recurso que já existe no Provider
