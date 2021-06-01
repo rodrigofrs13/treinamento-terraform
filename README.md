@@ -111,7 +111,7 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 |       terraform **destroy**       | Este comando para as Instâncias/Objetos em execução e destruindo todos os recursos que foram criados durante o processo de criação. |
 |        terraform **show**         | Mostra um resumo do status da sua infraestrutura terraform.  |
 |       terraform **output**        | Mostra um valor de uma variável output                       |
-|    terraform **init -upgrade**    | UPgrade de pacots                                            |
+|    terraform **init -upgrade**    | Upgrade de pacotes                                           |
 |    terraform **plan -destroy**    | informa o plano de destruição                                |
 | terraform **apply -auto-approve** | Cria infra automático sem perguntar                          |
 
