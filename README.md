@@ -1,24 +1,34 @@
 # Treinamentos  Terraform
 
-Colocar ✔ quando concluido. 
+Colocar ✔ quando concluído. 
 
 ##  ✔ Descomplicando o Terraform | HashiWeek
 - https://www.youtube.com/watch?v=4FellihAcV8
 
-## Terraform além do básico
-- https://www.youtube.com/watch?v=P3aY4_vxzWQ
+  
+
+## Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
+
+- https://www.youtube.com/watch?v=P3aY4_vxzWQ&t=243s
+
+- https://github.com/souzaxx/terraform-alem-do-basico
+
+  
 
 ##  Melhores práticas para seu pipeline de Infra as Code
 - https://www.youtube.com/watch?v=XGSuK8kyGag
 
+  
+
 ## O que é IaaS e IaC e o porquê isso é tão importante para nós! | IaaSWeek
 - https://www.youtube.com/watch?v=Tloaql2twe0
 
-## Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
-- https://www.youtube.com/watch?v=P3aY4_vxzWQ&t=243s
+
 
 ## Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code | #FiqueEmCasaConf
 - https://www.youtube.com/watch?v=XGSuK8kyGag&t=1s
+
+  
 
 ## Descomplicando o Terraform | HashiWeek
 - https://www.youtube.com/watch?v=4FellihAcV8&t=4s
@@ -37,6 +47,8 @@ Colocar ✔ quando concluido.
 - HashiCorp Certified Terraform Associate
 
 # Anotações
+
+**Hashicorp Configuration Language** (**HCL**)
 
 **Bloco Data** - coletar uma informação - recurso que já existe no Provider
 
@@ -65,7 +77,9 @@ data "aws_ami" "consul" {
 }
 ```
 
+Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
+![image-20210531213602994](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210531213602994.png)
 
 # Comandos Terraform
 
@@ -85,3 +99,4 @@ data "aws_ami" "consul" {
 
 # Best Pratices
 
+![image-20210531213708639](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210531213708639.png)
