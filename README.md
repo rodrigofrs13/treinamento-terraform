@@ -79,7 +79,7 @@ data "aws_ami" "consul" {
 
 Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
-![image-20210531213602994](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210531213602994.png)
+![image-20210531213602994](./Imagens/image-20210531213602994.png)
 
 # Comandos Terraform
 
