@@ -99,4 +99,4 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
 # Best Pratices
 
-![image-20210531213708639](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210531213708639.png)
+![image-20210531213708639](./Imagens/image-20210531213708639.png)
