@@ -2,7 +2,7 @@
 
 Colocar ✔ quando concluido. 
 
-## Descomplicando o Terraform | HashiWeek
+##  ✔ Descomplicando o Terraform | HashiWeek
 - https://www.youtube.com/watch?v=4FellihAcV8
 
 ## Terraform além do básico
