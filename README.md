@@ -1,4 +1,4 @@
-# Treinamentos  Terraform
+# **Treinamentos  Terraform**
 
 Colocar ✔ quando concluído. 
 
@@ -46,7 +46,21 @@ Colocar ✔ quando concluído.
 - Deploying to AWS with Terraform and Ansible
 - HashiCorp Certified Terraform Associate
 
-# Anotações
+# **Anotações**
+
+**Remote State**
+
+Mantem o estado do deploy.  Sempre quando vai atualizar ele verifica o local, verifica o remoto e aplica a diferença.
+
+Dividir o state em lugares diferentes. 
+
+
+
+**Workspaces**
+
+Reutilizar o mesmo código para diversos ambientes
+
+![image-20210601200725915](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210601200725915.png) 
 
 **terraform-cheatsheet**
 
@@ -85,7 +99,7 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
 ![image-20210531213602994](./Imagens/image-20210531213602994.png)
 
-# Comandos Terraform
+# **Comandos Terraform**
 
 
 
@@ -101,6 +115,6 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 |    terraform **plan -destroy**    | informa o plano de destruição                                |
 | terraform **apply -auto-approve** | Cria infra automático sem perguntar                          |
 
-# Best Pratices
+# **Best Pratices**
 
 ![image-20210531213708639](./Imagens/image-20210531213708639.png)
