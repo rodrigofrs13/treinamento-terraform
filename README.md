@@ -15,21 +15,12 @@ Colocar ✔ quando concluído.
 
   
 
-## Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code | #FiqueEmCasaConf
-
-- https://www.youtube.com/watch?v=XGSuK8kyGag&t=1s
-
-
-
 ## Descomplicando o Terraform | HashiWeek
 
 - https://www.youtube.com/watch?v=8mRZJcCgoS0
 - https://www.youtube.com/watch?v=lrAycU7_XnQ
 
-## LinuxTips
-## HASHICORP EXPERT
-- https://www.youtube.com/watch?v=c45vNgMphQs
-
+## LinuxTips - HASHICORP EXPERT
 ## Oficial
 - https://learn.hashicorp.com/terraform
 
