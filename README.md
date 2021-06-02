@@ -7,7 +7,7 @@ Colocar ✔ quando concluído.
 
   
 
-## Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
+## ✔ Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
 
 - https://www.youtube.com/watch?v=P3aY4_vxzWQ&t=243s
 
@@ -54,7 +54,9 @@ Mantem o estado do deploy.  Sempre quando vai atualizar ele verifica o local, ve
 
 Dividir o state em lugares diferentes. 
 
+**Dynamic Blocos**
 
+Sempre utilizar 
 
 **Workspaces**
 
@@ -103,17 +105,27 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
 
 
-|              Comando              | Descrição                                                    |
-| :-------------------------------: | :----------------------------------------------------------- |
-|        terraform **init**         | Inicializa o ambiente com o provider utilizado.Por exemplo, se você estiver utilizando o **provider "aws"**, inicializa o plugin para Amazon Web Services. |
-|        terraform **apply**        | Este comando que cria e altera as Instâncias/Objetos no Provider de acordo com o seu terraform. |
-|        terraform **plan**         | Mostra o plano de execução do terraform.                     |
-|       terraform **destroy**       | Este comando para as Instâncias/Objetos em execução e destruindo todos os recursos que foram criados durante o processo de criação. |
-|        terraform **show**         | Mostra um resumo do status da sua infraestrutura terraform.  |
-|       terraform **output**        | Mostra um valor de uma variável output                       |
-|    terraform **init -upgrade**    | Upgrade de pacotes                                           |
-|    terraform **plan -destroy**    | informa o plano de destruição                                |
-| terraform **apply -auto-approve** | Cria infra automático sem perguntar                          |
+|                Comando                 | Descrição                                                    |
+| :------------------------------------: | :----------------------------------------------------------- |
+|           terraform **init**           | Inicializa o ambiente com o provider utilizado.Por exemplo, se você estiver utilizando o **provider "aws"**, inicializa o plugin para Amazon Web Services. |
+|          terraform **apply**           | Este comando que cria e altera as Instâncias/Objetos no Provider de acordo com o seu terraform. |
+|           terraform **plan**           | Mostra o plano de execução do terraform.                     |
+|         terraform **destroy**          | Este comando para as Instâncias/Objetos em execução e destruindo todos os recursos que foram criados durante o processo de criação. |
+|           terraform **show**           | Mostra um resumo do status da sua infraestrutura terraform.  |
+|          terraform **output**          | Mostra um valor de uma variável output                       |
+|      terraform **init -upgrade**       | Upgrade de pacotes                                           |
+|      terraform **plan -destroy**       | informa o plano de destruição                                |
+|   terraform **apply -auto-approve**    | Cria infra automático sem perguntar                          |
+|        terraform workspace list        | Lista os workspaces                                          |
+|      terraform workspace new dev       | cria novos workspaces                                        |
+| terraform workspace select "workspace" | altera o workspaces                                          |
+|                                        |                                                              |
+|                                        |                                                              |
+|                                        |                                                              |
+|                                        |                                                              |
+|                                        |                                                              |
+|                                        |                                                              |
+|                                        |                                                              |
 
 # **Best Pratices**
 
