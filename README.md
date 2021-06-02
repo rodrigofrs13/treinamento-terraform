@@ -15,23 +15,14 @@ Colocar ✔ quando concluído.
 
   
 
-##  Melhores práticas para seu pipeline de Infra as Code
-- https://www.youtube.com/watch?v=XGSuK8kyGag
-
-  
-
-## O que é IaaS e IaC e o porquê isso é tão importante para nós! | IaaSWeek
-- https://www.youtube.com/watch?v=Tloaql2twe0
-
-
-
 ## Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code | #FiqueEmCasaConf
+
 - https://www.youtube.com/watch?v=XGSuK8kyGag&t=1s
 
-  
+
 
 ## Descomplicando o Terraform | HashiWeek
-- https://www.youtube.com/watch?v=4FellihAcV8&t=4s
+
 - https://www.youtube.com/watch?v=8mRZJcCgoS0
 - https://www.youtube.com/watch?v=lrAycU7_XnQ
 
