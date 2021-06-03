@@ -2,6 +2,14 @@
 
 Colocar ✔ quando concluído. 
 
+## Descomplicando o Terraform | HashiWeek
+
+- https://www.youtube.com/watch?v=8mRZJcCgoS0
+
+- https://www.youtube.com/watch?v=lrAycU7_XnQ
+
+  
+
 ##  ✔ Descomplicando o Terraform | HashiWeek
 - https://www.youtube.com/watch?v=4FellihAcV8
 
@@ -14,11 +22,6 @@ Colocar ✔ quando concluído.
 - https://github.com/souzaxx/terraform-alem-do-basico
 
   
-
-## Descomplicando o Terraform | HashiWeek
-
-- https://www.youtube.com/watch?v=8mRZJcCgoS0
-- https://www.youtube.com/watch?v=lrAycU7_XnQ
 
 ## LinuxTips - HASHICORP EXPERT
 ## Oficial
