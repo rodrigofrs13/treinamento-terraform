@@ -106,7 +106,7 @@ https://www.terraform.io/docs/cli/commands/index.html
 |        terraform workspace list        | Lista os workspaces                                          |
 |      terraform workspace new dev       | cria novos workspaces                                        |
 | terraform workspace select "workspace" | altera o workspaces                                          |
-|        terraform plan -out=out         | Saída do arquivo plan                                        |
+|      terraform plan **-out=out**       | Saída do arquivo plan                                        |
 |                                        |                                                              |
 |                                        |                                                              |
 |                                        |                                                              |
