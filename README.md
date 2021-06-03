@@ -88,6 +88,8 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 
 # **Comandos Terraform**
 
+https://www.terraform.io/docs/cli/commands/index.html
+
 
 
 |                Comando                 | Descrição                                                    |
@@ -104,7 +106,7 @@ Local name não é o nome da maquina, mas sim o nome de referencia no terraform
 |        terraform workspace list        | Lista os workspaces                                          |
 |      terraform workspace new dev       | cria novos workspaces                                        |
 | terraform workspace select "workspace" | altera o workspaces                                          |
-|                                        |                                                              |
+|        terraform plan -out=out         | Saída do arquivo plan                                        |
 |                                        |                                                              |
 |                                        |                                                              |
 |                                        |                                                              |
