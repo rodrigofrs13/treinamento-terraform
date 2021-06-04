@@ -26,10 +26,16 @@ Colocar ✔ quando concluído.
 ## LinuxTips - HASHICORP EXPERT
 ## Oficial
 - https://learn.hashicorp.com/terraform
+- https://hashiconf.com/europe/workshops/
+- https://www.youtube.com/c/HashiCorp/search?query=terraform
+- https://learn.hashicorp.com/collections/terraform/modules
+- https://learn.hashicorp.com/collections/terraform/kubernetes
+- https://learn.hashicorp.com/collections/terraform/aws
 
 ## Acloudguru
 - Deploying to AWS with Terraform and Ansible
-- HashiCorp Certified Terraform Associate
+
+  
 
 # **Anotações**
 
