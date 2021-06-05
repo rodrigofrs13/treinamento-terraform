@@ -142,6 +142,8 @@ https://www.terraform.io/docs/cli/commands/index.html
 |                                        |                                                              |
 |                                        |                                                              |
 
-# **Best Pratices**
+# **Best Practices**
+
+
 
 ![image-20210531213708639](./Imagens/image-20210531213708639.png)
