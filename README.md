@@ -75,7 +75,7 @@ Sempre utilizar
 
 Reutilizar o mesmo código para diversos ambientes
 
-![image-20210601200725915](C:\Users\roee\OneDrive - GFT Technologies SE\Documents\RODRIGO\ESTUDOS\Terraform\terraform\Imagens\image-20210601200725915.png) 
+![](./Imagens/image-20210601200725915.png)
 
 **terraform-cheatsheet**
 
