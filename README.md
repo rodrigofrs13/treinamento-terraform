@@ -24,7 +24,19 @@ Colocar ✔ quando concluído.
   
 
 ## LinuxTips - HASHICORP EXPERT
-## Oficial
+
+- Descomplicando Terraform
+
+## Oficial - Hashicorp
+
+### Configuration Syntax
+
+- https://www.terraform.io/docs/language/syntax/configuration.html
+
+- https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md
+
+  
+
 - https://learn.hashicorp.com/terraform
 - https://hashiconf.com/europe/workshops/
 - https://www.youtube.com/c/HashiCorp/search?query=terraform
