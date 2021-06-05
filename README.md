@@ -34,6 +34,13 @@ Colocar ✔ quando concluído.
 - https://www.terraform.io/docs/language/syntax/configuration.html
 - https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md
 
+### Expressions
+
+- https://www.terraform.io/docs/language/expressions/index.html
+- https://www.terraform.io/docs/language/expressions/types.html
+
+
+
 ### Workshop
 
 - https://hashiconf.com/europe/workshops/
