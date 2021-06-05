@@ -32,14 +32,17 @@ Colocar ✔ quando concluído.
 ### Configuration Syntax
 
 - https://www.terraform.io/docs/language/syntax/configuration.html
-
 - https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md
 
-  
+### Workshop
+
+- https://hashiconf.com/europe/workshops/
+
+
 
 - https://learn.hashicorp.com/terraform
-- https://hashiconf.com/europe/workshops/
-- https://www.youtube.com/c/HashiCorp/search?query=terraform
+
+  https://www.youtube.com/c/HashiCorp/search?query=terraform
 - https://learn.hashicorp.com/collections/terraform/modules
 - https://learn.hashicorp.com/collections/terraform/kubernetes
 - https://learn.hashicorp.com/collections/terraform/aws
