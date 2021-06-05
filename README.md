@@ -39,6 +39,14 @@ Colocar ✔ quando concluído.
 - https://www.terraform.io/docs/language/expressions/index.html
 - https://www.terraform.io/docs/language/expressions/types.html
 
+### Variables
+
+- https://www.terraform.io/docs/language/values/variables.html
+
+```yaml
+The name of a variable can be any valid identifier except the following: source, version, providers, count, for_each, lifecycle, depends_on, locals.
+```
+
 
 
 ### Workshop
