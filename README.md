@@ -158,8 +158,8 @@ https://www.terraform.io/docs/cli/commands/index.html
 |      terraform workspace new dev       | cria novos workspaces                                        |
 | terraform workspace select "workspace" | altera o workspaces                                          |
 |      terraform plan **-out out**       | Saída do arquivo plan, salva o plano em arquivo para ser executado exatamente como foi apresentado. |
-|                                        |                                                              |
-|                                        |                                                              |
+|      terraform state pull >> file      | imprime o state file                                         |
+|       terraform state push file        | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
 |                                        |                                                              |
 |                                        |                                                              |
 |                                        |                                                              |
