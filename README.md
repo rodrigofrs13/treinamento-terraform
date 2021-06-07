@@ -39,6 +39,12 @@ https://www.youtube.com/watch?v=RLwvMDgVU80
 
 ![image-20210607202526718](./Imagens/image-20210607202526718.png)
 
+### State Locking
+
+- https://www.terraform.io/docs/language/state/locking.html
+
+  
+
 ### Configuration Syntax
 
 - https://www.terraform.io/docs/language/syntax/configuration.html
@@ -87,6 +93,10 @@ The name of a variable can be any valid identifier except the following: source,
 https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
 
 **Hashicorp Configuration Language** (**HCL**)
+
+**Backend**
+
+**Backend com State Lock** - Toda vez que altera o backend tem que rodar o terraform init
 
 **Remote State**
 
@@ -160,7 +170,7 @@ https://www.terraform.io/docs/cli/commands/index.html
 |      terraform plan **-out out**       | Saída do arquivo plan, salva o plano em arquivo para ser executado exatamente como foi apresentado. |
 |      terraform state pull >> file      | imprime o state file                                         |
 |       terraform state push file        | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
-|                                        |                                                              |
+|   terraform.exe destroy -lock=false    | Ignora o lock                                                |
 |                                        |                                                              |
 |                                        |                                                              |
 |                                        |                                                              |
