@@ -27,7 +27,17 @@ Colocar ✔ quando concluído.
 
 - Descomplicando Terraform
 
+## Como eu gostaria de ter aprendido - Terraform
+
+https://www.youtube.com/watch?v=RLwvMDgVU80
+
 ## Oficial - Hashicorp
+
+### ## Voltar nesse cara - Modules
+
+- https://www.terraform.io/docs/language/modules/index.html
+
+![image-20210607202526718](./Imagens/image-20210607202526718.png)
 
 ### Configuration Syntax
 
@@ -53,6 +63,9 @@ The name of a variable can be any valid identifier except the following: source,
 
 - https://hashiconf.com/europe/workshops/
 
+### TUTORIALS
+
+- https://learn.hashicorp.com/collections/terraform/modules?utm_source=WEBSITE&utm_medium=WEB_IO&utm_offer=ARTICLE_PAGE&utm_content=DOCS
 
 
 - https://learn.hashicorp.com/terraform
@@ -68,6 +81,12 @@ The name of a variable can be any valid identifier except the following: source,
   
 
 # **Anotações**
+
+**terraform-cheatsheet**
+
+https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
+
+**Hashicorp Configuration Language** (**HCL**)
 
 **Remote State**
 
@@ -85,11 +104,7 @@ Reutilizar o mesmo código para diversos ambientes
 
 ![](./Imagens/image-20210601200725915.png)
 
-**terraform-cheatsheet**
 
-https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
-
-**Hashicorp Configuration Language** (**HCL**)
 
 **Bloco Data** - coletar uma informação - recurso que já existe no Provider
 
