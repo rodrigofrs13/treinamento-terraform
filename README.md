@@ -39,6 +39,14 @@ https://www.youtube.com/watch?v=RLwvMDgVU80
 
 ![image-20210607202526718](./Imagens/image-20210607202526718.png)
 
+### State
+
+O terraform não funciona sem o arquivo de state. 
+
+- https://www.terraform.io/docs/language/state/index.html
+
+
+
 ### State Locking
 
 - https://www.terraform.io/docs/language/state/locking.html
@@ -153,27 +161,37 @@ https://www.terraform.io/docs/cli/commands/index.html
 
 
 
-|                Comando                 | Descrição                                                    |
-| :------------------------------------: | :----------------------------------------------------------- |
-|           terraform **init**           | Inicializa o ambiente com o provider utilizado.Por exemplo, se você estiver utilizando o **provider "aws"**, inicializa o plugin para Amazon Web Services. |
-|          terraform **apply**           | Este comando que cria e altera as Instâncias/Objetos no Provider de acordo com o seu terraform. |
-|           terraform **plan**           | Mostra o plano de execução do terraform.                     |
-|         terraform **destroy**          | Este comando para as Instâncias/Objetos em execução e destruindo todos os recursos que foram criados durante o processo de criação. |
-|           terraform **show**           | Mostra um resumo do status da sua infraestrutura terraform.  |
-|          terraform **output**          | Mostra um valor de uma variável output                       |
-|      terraform **init -upgrade**       | Upgrade de pacotes                                           |
-|      terraform **plan -destroy**       | informa o plano de destruição                                |
-|   terraform **apply -auto-approve**    | Cria infra automático sem perguntar                          |
-|        terraform workspace list        | Lista os workspaces                                          |
-|      terraform workspace new dev       | cria novos workspaces                                        |
-| terraform workspace select "workspace" | altera o workspaces                                          |
-|      terraform plan **-out out**       | Saída do arquivo plan, salva o plano em arquivo para ser executado exatamente como foi apresentado. |
-|      terraform state pull >> file      | imprime o state file                                         |
-|       terraform state push file        | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
-|   terraform.exe destroy -lock=false    | Ignora o lock                                                |
-|                                        |                                                              |
-|                                        |                                                              |
-|                                        |                                                              |
+|                         Comando                          | Descrição                                                    |
+| :------------------------------------------------------: | :----------------------------------------------------------- |
+|                    terraform **init**                    | Inicializa o ambiente com o provider utilizado.Por exemplo, se você estiver utilizando o **provider "aws"**, inicializa o plugin para Amazon Web Services. |
+|                   terraform **apply**                    | Este comando que cria e altera as Instâncias/Objetos no Provider de acordo com o seu terraform. |
+|                    terraform **plan**                    | Mostra o plano de execução do terraform.                     |
+|                  terraform **destroy**                   | Este comando para as Instâncias/Objetos em execução e destruindo todos os recursos que foram criados durante o processo de criação. |
+|                    terraform **show**                    | Mostra um resumo do status da sua infraestrutura terraform.  |
+|                   terraform **output**                   | Mostra um valor de uma variável output                       |
+|               terraform **init -upgrade**                | Upgrade de pacotes                                           |
+|               terraform **plan -destroy**                | informa o plano de destruição                                |
+|            terraform **apply -auto-approve**             | Cria infra automático sem perguntar                          |
+|                 terraform workspace list                 | Lista os workspaces                                          |
+|               terraform workspace new dev                | cria novos workspaces                                        |
+|          terraform workspace select "workspace"          | altera o workspaces                                          |
+|               terraform plan **-out out**                | Saída do arquivo plan, salva o plano em arquivo para ser executado exatamente como foi apresentado. |
+|               terraform state pull >> file               | imprime o state file                                         |
+|                terraform state push file                 | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
+|            terraform.exe destroy -lock=false             | Ignora o lock // Serve para plan/apply                       |
+| terraform.exe plan -lock=false -refresh=false -out plano | Não faz refresh dos recursos // Serve para plan/appl         |
+|                    terraform refresh                     | Atualiza o .state                                            |
+|                    terrraform state *                    | Altera o estado do arquivo state                             |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
+|                                                          |                                                              |
 
 # **Best Practices**
 
