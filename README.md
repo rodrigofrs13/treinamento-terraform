@@ -124,9 +124,14 @@ Sempre utilizar
 
 **Workspaces**
 
-Reutilizar o mesmo código para diversos ambientes
+Reutilizar o mesmo código para diversos ambientes.
+
+Cria dentro do S3 (qdo state remoto) a pasta /env com cada workspaces.
 
 ![](./Imagens/image-20210601200725915.png)
+
+- https://www.terraform.io/docs/language/state/workspaces.html
+
 
 
 
