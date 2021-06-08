@@ -45,6 +45,12 @@ O terraform não funciona sem o arquivo de state.
 
 - https://www.terraform.io/docs/language/state/index.html
 
+**Terraform Import**
+
+Pega o que está no mundo real e coloca no state.
+
+- https://www.terraform.io/docs/cli/import/index.html
+
 
 
 ### State Locking
