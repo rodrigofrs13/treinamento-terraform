@@ -181,8 +181,8 @@ https://www.terraform.io/docs/cli/commands/index.html
 |            terraform.exe destroy -lock=false             | Ignora o lock // Serve para plan/apply                       |
 | terraform.exe plan -lock=false -refresh=false -out plano | Não faz refresh dos recursos // Serve para plan/appl         |
 |                    terraform refresh                     | Atualiza o .state                                            |
-|                    terrraform state *                    | Altera o estado do arquivo state                             |
-|                                                          |                                                              |
+|                    terrraform state *                    | Altera o estado do state file                                |
+|                    terraform state rm                    | Tirar o recurso da gerencia do Terraform                     |
 |                                                          |                                                              |
 |                                                          |                                                              |
 |                                                          |                                                              |
