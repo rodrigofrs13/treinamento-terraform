@@ -183,18 +183,18 @@ https://www.terraform.io/docs/cli/commands/index.html
 |               terraform **init -upgrade**                | Upgrade de pacotes                                           |
 |               terraform **plan -destroy**                | informa o plano de destruição                                |
 |            terraform **apply -auto-approve**             | Cria infra automático sem perguntar                          |
-|                 terraform workspace list                 | Lista os workspaces                                          |
-|               terraform workspace new dev                | cria novos workspaces                                        |
-|          terraform workspace select "workspace"          | altera o workspaces                                          |
+|               terraform **workspace list**               | Lista os workspaces                                          |
+|             terraform **workspace new dev**              | cria novos workspaces                                        |
+|        terraform **workspace select "workspace"**        | altera o workspaces                                          |
 |               terraform plan **-out out**                | Saída do arquivo plan, salva o plano em arquivo para ser executado exatamente como foi apresentado. |
-|               terraform state pull >> file               | imprime o state file                                         |
-|                terraform state push file                 | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
-|            terraform.exe destroy -lock=false             | Ignora o lock // Serve para plan/apply                       |
-| terraform.exe plan -lock=false -refresh=false -out plano | Não faz refresh dos recursos // Serve para plan/appl         |
-|                    terraform refresh                     | Atualiza o .state                                            |
-|                    terrraform state *                    | Altera o estado do state file                                |
-|                    terraform state rm                    | Tirar o recurso da gerencia do Terraform                     |
-|                                                          |                                                              |
+|             terraform **state pull >> file**             | imprime o state file                                         |
+|              terraform **state push file**               | altera o arquivo state, tem que aumentar o "serial", sempre incrementar |
+|            terraform **destroy -lock=false**             | Ignora o lock // Serve para plan/apply                       |
+| terraform **plan -lock=false -refresh=false -out plano** | Não faz refresh dos recursos // Serve para plan/appl         |
+|                  terraform **refresh**                   | Atualiza o .state                                            |
+|                  terrraform **state ***                  | Altera o estado do state file                                |
+|                  terraform **state rm**                  | Tirar o recurso da gerencia do Terraform                     |
+|           terraform **-install-autocomplete**            | Instala o auto complete                                      |
 |                                                          |                                                              |
 |                                                          |                                                              |
 |                                                          |                                                              |
