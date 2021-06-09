@@ -33,6 +33,35 @@ https://www.youtube.com/watch?v=RLwvMDgVU80
 
 ## Oficial - Hashicorp
 
+### Workshop
+
+- https://hashiconf.com/europe/workshops/
+
+### TUTORIALS
+
+- https://learn.hashicorp.com/collections/terraform/modules?utm_source=WEBSITE&utm_medium=WEB_IO&utm_offer=ARTICLE_PAGE&utm_content=DOCS
+
+
+- https://learn.hashicorp.com/terraform
+
+  https://www.youtube.com/c/HashiCorp/search?query=terraform
+- https://learn.hashicorp.com/collections/terraform/modules
+- https://learn.hashicorp.com/collections/terraform/kubernetes
+- https://learn.hashicorp.com/collections/terraform/aws
+
+## Acloudguru
+- Deploying to AWS with Terraform and Ansible
+
+  
+
+# **Anotações**
+
+**terraform-cheatsheet**
+
+https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
+
+**Hashicorp Configuration Language** (**HCL**)
+
 ### ## Voltar nesse cara - Modules
 
 - https://www.terraform.io/docs/language/modules/index.html
@@ -78,35 +107,6 @@ The name of a variable can be any valid identifier except the following: source,
 ```
 
 
-
-### Workshop
-
-- https://hashiconf.com/europe/workshops/
-
-### TUTORIALS
-
-- https://learn.hashicorp.com/collections/terraform/modules?utm_source=WEBSITE&utm_medium=WEB_IO&utm_offer=ARTICLE_PAGE&utm_content=DOCS
-
-
-- https://learn.hashicorp.com/terraform
-
-  https://www.youtube.com/c/HashiCorp/search?query=terraform
-- https://learn.hashicorp.com/collections/terraform/modules
-- https://learn.hashicorp.com/collections/terraform/kubernetes
-- https://learn.hashicorp.com/collections/terraform/aws
-
-## Acloudguru
-- Deploying to AWS with Terraform and Ansible
-
-  
-
-# **Anotações**
-
-**terraform-cheatsheet**
-
-https://res.cloudinary.com/acloud-guru/image/fetch/c_thumb,f_auto,q_auto/https://acg-wordpress-content-production.s3.us-west-2.amazonaws.com/app/uploads/2020/11/terraform-cheatsheet-from-ACG.pdf
-
-**Hashicorp Configuration Language** (**HCL**)
 
 **Backend**
 
