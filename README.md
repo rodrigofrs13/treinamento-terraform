@@ -5,15 +5,10 @@ Colocar ✔ quando concluído.
 ## ✔ Descomplicando o Terraform | HashiWeek
 
 - https://www.youtube.com/watch?v=8mRZJcCgoS0
-
 - https://www.youtube.com/watch?v=lrAycU7_XnQ
-
-  
-
-##  ✔ Descomplicando o Terraform | HashiWeek
 - https://www.youtube.com/watch?v=4FellihAcV8
 
-  
+
 
 ## ✔ Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
 
@@ -23,13 +18,17 @@ Colocar ✔ quando concluído.
 
   
 
+## Como eu gostaria de ter aprendido - Terraform
+
+https://www.youtube.com/watch?v=RLwvMDgVU80
+
+
+
 ## LinuxTips - HASHICORP EXPERT
 
 - Descomplicando Terraform
 
-## Como eu gostaria de ter aprendido - Terraform
 
-https://www.youtube.com/watch?v=RLwvMDgVU80
 
 ## Oficial - Hashicorp
 
@@ -195,9 +194,9 @@ https://www.terraform.io/docs/cli/commands/index.html
 |                  terrraform **state ***                  | Altera o estado do state file                                |
 |                  terraform **state rm**                  | Tirar o recurso da gerencia do Terraform                     |
 |           terraform **-install-autocomplete**            | Instala o auto complete                                      |
-|                                                          |                                                              |
-|                                                          |                                                              |
-|                                                          |                                                              |
+|              TF_LOG=DEBUG terraform "tipo"               | Analise de logs                                              |
+|                     terraform taint                      | Marcar um recurso que precisa ser destruído - SOMENTE NO PROXIMO PLAN e APPLY |
+|                    terraform untaint                     | DesMarcar um recurso que precisa ser destruído               |
 |                                                          |                                                              |
 |                                                          |                                                              |
 |                                                          |                                                              |
