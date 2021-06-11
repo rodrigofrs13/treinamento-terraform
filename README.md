@@ -1,5 +1,9 @@
 # **Treinamentos  Terraform**
 
+![image-20210611195810594](./Imagens/image-20210611195810594.png)
+
+
+
 Colocar ✔ quando concluído. 
 
 ## ✔ Descomplicando o Terraform | HashiWeek
