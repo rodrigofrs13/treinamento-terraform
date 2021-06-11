@@ -194,11 +194,11 @@ https://www.terraform.io/docs/cli/commands/index.html
 |                  terrraform **state ***                  | Altera o estado do state file                                |
 |                  terraform **state rm**                  | Tirar o recurso da gerencia do Terraform                     |
 |           terraform **-install-autocomplete**            | Instala o auto complete                                      |
-|              TF_LOG=DEBUG terraform "tipo"               | Analise de logs                                              |
-|                     terraform taint                      | Marcar um recurso que precisa ser destruído - SOMENTE NO PROXIMO PLAN e APPLY |
-|                    terraform untaint                     | DesMarcar um recurso que precisa ser destruído               |
-|                                                          |                                                              |
-|                                                          |                                                              |
+|            **TF_LOG=DEBUG** terraform "tipo"             | Analise de logs                                              |
+|                   terraform **taint**                    | Marcar um recurso que precisa ser destruído - SOMENTE NO PROXIMO PLAN e APPLY |
+|                  terraform **untaint**                   | DesMarcar um recurso que precisa ser destruído               |
+|                    terraform **fmt**                     | É usado para reescrever os arquivos de configuração do Terraform para um formato e estilo canônicos. |
+|             terraform **init backend=false**             | Roda o init mas não sobe o backend                           |
 |                                                          |                                                              |
 |                                                          |                                                              |
 |                                                          |                                                              |
