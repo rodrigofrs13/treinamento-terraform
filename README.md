@@ -199,7 +199,7 @@ https://www.terraform.io/docs/cli/commands/index.html
 |            terraform **destroy -lock=false**             | Ignora o lock // Serve para plan/apply                       |
 | terraform **plan -lock=false -refresh=false -out plano** | Não faz refresh dos recursos // Serve para plan/appl         |
 |                  terraform **refresh**                   | Atualiza o .state                                            |
-|                  terrraform **state ***                  | Altera o estado do state file                                |
+|                   terrraform **state**                   | Altera o estado do state file                                |
 |                  terraform **state rm**                  | Tirar o recurso da gerencia do Terraform                     |
 |           terraform **-install-autocomplete**            | Instala o auto complete                                      |
 |            **TF_LOG=DEBUG** terraform "tipo"             | Analise de logs                                              |
