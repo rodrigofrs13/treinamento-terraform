@@ -18,13 +18,13 @@ Colocar ✔ quando concluído.
 
   
 
-## Como eu gostaria de ter aprendido - Terraform
+## ✔ Como eu gostaria de ter aprendido - Terraform
 
 https://www.youtube.com/watch?v=RLwvMDgVU80
 
 
 
-## LinuxTips - HASHICORP EXPERT
+## ✔ LinuxTips - HASHICORP EXPERT
 
 - Descomplicando Terraform
 
