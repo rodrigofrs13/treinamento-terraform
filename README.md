@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=RLwvMDgVU80
 
 ## Oficial - Hashicorp
 
-### Workshop
+### ✔ Workshop
 
 - https://hashiconf.com/europe/workshops/
 
