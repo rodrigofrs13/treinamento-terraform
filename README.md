@@ -1,8 +1,8 @@
 # **Treinamentos  Terraform**
 
-![image-20210611195810594](./Imagens/image-20210611195810594.png)
 
 
+![Terraform deployment workflow](./Imagens/terraform-iac.png)
 
 Colocar ✔ quando concluído. 
 
